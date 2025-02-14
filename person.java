@@ -12,4 +12,10 @@ class student extends person
         System.out.println("sub class");
     }
 }
-class 
+class SUPER
+ {
+  public static void main(String args[])
+  {
+   student obj=new student();
+  }
+ }
